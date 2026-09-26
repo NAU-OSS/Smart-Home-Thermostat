@@ -1,35 +1,45 @@
 # Smart Home Thermostat
 
-Smart Home Thermostat is an open-source project designed to provide a simple way to monitor and control the temperature of a home. The project is intended as a flexible foundation that can be expanded with additional smart-home features.
+Smart Home Thermostat is an open-source project designed to provide a simple and accessible way to monitor and control the temperature of a home. The project is intended as a foundation for a smart thermostat system that can be expanded with additional features and integrations.
+
+## Project Overview
+
+The goal of Smart Home Thermostat is to create a thermostat system that allows users to monitor the temperature of a room, select a desired temperature, and control heating or cooling equipment.
+
+This project is also intended to provide an educational open-source environment where developers, students, and hobbyists can study the project, suggest improvements, contribute code, and develop additional features.
+
+## Why This Project Is Useful
+
+A smart thermostat can provide a convenient way to monitor and control the temperature of a home. A simple open-source design also allows users and developers to understand how the system works and modify it for their own needs.
+
+Because this project is open source, contributors can inspect the project, suggest improvements, improve documentation, and develop new functionality.
 
 ## Features
 
+The planned features of the Smart Home Thermostat include:
+
 - Monitor the current room temperature
 - Set a desired temperature
-- Turn heating or cooling on and off
-- Support future temperature scheduling
-- Provide a foundation for additional smart-home integrations
+- Turn heating on and off
+- Turn cooling on and off
+- Display the current and desired temperatures
+- Support temperature scheduling
+- Provide a foundation for future smart-home integrations
 
-## Project Goals
+## Project Status
 
-The goal of this project is to create a simple and accessible thermostat system that can be used for learning, experimentation, and future development. The project is designed so that other developers can review the work, suggest improvements, and contribute new features.
+**Status: Conceptual / In Development**
 
-## Getting Started
+This project is currently a conceptual open-source project. The repository is being developed as a foundation for a future smart thermostat system.
 
-This project is currently a conceptual open-source project. Future development may include hardware and software components for reading temperature sensors and controlling heating or cooling equipment.
+The current project focuses on defining the design, documentation, expected functionality, and open-source development process. Hardware and software implementation can be added as the project develops.
 
-To get started, review the project documentation and open issues. Developers interested in contributing should also read [CONTRIBUTING.md](CONTRIBUTING.md).
+## Installation
 
-## Contributing
+Because the current version of the project is conceptual, there are no hardware or software installation requirements yet.
 
-Contributions are welcome. You can report bugs, suggest features, improve documentation, or submit code changes.
+To obtain the project, clone the repository:
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
-
-## Community
-
-All contributors are expected to communicate respectfully and constructively. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for the project's community guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```bash
+git clone https://github.com/NAU-OSS/Smart-Home-Thermostat.git
+cd Smart-Home-Thermostat
